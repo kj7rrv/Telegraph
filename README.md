@@ -5,7 +5,9 @@ speed adjustments, and use of active-on-low relays are supported.
 
 ## Usage
 
-Check the example sketches, especially `Telegraph_Demo`, for more information.
+Check the example sketches, especially
+[`Telegraph_Demo`](https://git.kj7rrv.com/kj7rrv/Telegraph/src/branch/main/examples/Telegraph_Demo/Telegraph_Demo.ino),
+for more information.
 
 ## Setup
 
