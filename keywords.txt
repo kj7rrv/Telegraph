@@ -1,0 +1,4 @@
+Telegraph	KEYWORD1
+on	KEYWORD2
+off	KEYWORD2
+send	KEYWORD2
